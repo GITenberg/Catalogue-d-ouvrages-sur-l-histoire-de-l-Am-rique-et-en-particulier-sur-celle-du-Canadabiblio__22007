@@ -1,0 +1,38 @@
+_repo: Catalogue-d-ouvrages-sur-l-histoire-de-l-Am-rique-et-en-particulier-sur-celle-du-Canadabiblio__22007
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Faribault, G.-B. (Georges-Barthélemi)
+    aliases:
+    - Faribault, G.-B. (Georges-Barthelemi)
+    - Faribault, Georges-Barthélemi
+    birthdate: 1789
+    deathdate: 1866
+    gutenberg_agent_id: '25030'
+    url: http://www.gutenberg.org/2009/agents/25030
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2007-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22007'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Bibliography'
+- !lcc 'Z'
+- !lcsh 'New France -- Bibliography'
+title: 'Catalogue d''ouvrages sur l''histoire de l''Amérique et en particulier sur
+  celle du Canada
+
+  de la Louisiane, de l''Acadie et autres lieux, ci-devant
+
+  connus sous le nom de Nouvelle-France, avec des notes
+
+  bibliographiques, critiques, et littéraires'
+url: http://www.gutenberg.org/ebooks/22007
