@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25030'
     url: http://www.gutenberg.org/2009/agents/25030
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22007#Catalogue-d-ouvrages-sur-l-histoire-de-l-Am-rique-et-en-particulier-sur-celle-du-Canadabiblio_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2007-07-06'
 gutenberg_type: Text
